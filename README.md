@@ -1,1 +1,1 @@
-# Grocery_inventory_management
+# Grocery_management_system
